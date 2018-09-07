@@ -1,0 +1,7 @@
+Artificial Intelligence is also called intelligent agent.
+It gets to interact with the environment.
+The agent can perceive the state of the environment through its sensors, and affect its state through actuators.
+
+The big question of artificial intelligence is the function that maps sensors to actuators. That is called the control policy for the agent.
+
+The loop of environment feedback to sensors, agent decision, actuator interaction with the environment and so on is called perception action cycle ( PAC ).
